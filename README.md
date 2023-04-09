@@ -6,10 +6,11 @@ Rock, paper, scissors is a hand game usually played between two people, in which
 
 Roles
 Project Manager/Release Coordinator: [karanpreet,ramneet]
+
 Developer: [karanpreet, ramneet]
+
 QA Tester: [karanpreet,ramneet]
+
 Scope
 The scope of this project is to create a simple web app for the game "Rock, Paper, Scissors" using Python. The app should be easy to understand and play.
 
-Design
-The workflow/flow chart of how the "Rock, Paper, Scissors" game will work is available in the "design" folder.
